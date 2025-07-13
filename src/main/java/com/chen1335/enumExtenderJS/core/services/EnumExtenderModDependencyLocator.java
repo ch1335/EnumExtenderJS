@@ -12,7 +12,7 @@ import java.util.List;
 
 public class EnumExtenderModDependencyLocator implements IDependencyLocator {
     private static final Logger LOGGER = LogUtils.getLogger();
-    private static final String MAIN_MOD_NAME = "enum_extender_js-1.0.0.jar";
+    private static final String MAIN_MOD_NAME = "enum_extender_js-2101.1.0.jar";
 
     @Override
     public void scanMods(List<IModFile> loadedMods, IDiscoveryPipeline pipeline) {
